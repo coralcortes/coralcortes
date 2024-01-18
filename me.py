@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coralcortes
+ Hi, I’m @coralcortes
 
 
 <!---
